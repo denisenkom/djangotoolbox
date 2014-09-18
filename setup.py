@@ -8,7 +8,7 @@ try:
 except:
     pass
 
-setup(name='djangotoolbox',
+setup(name='djangotoolbox-py3',
       version='1.6.2',
       description=DESCRIPTION,
       long_description=LONG_DESCRIPTION,
